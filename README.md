@@ -101,7 +101,7 @@ Inicio</a>
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h8></h8> </p>
-<a href="#">SISTEMA DE GESTION DE TALLERES  DE  REPARACIONES DE COMPUTADORAS Y CELULARES   </a></div>
+<a href="#">SISTEMA DE GESTION DE TALLERES  DE  REPARACIONES DE COMPUTADORAS Y CELULARES   </a>
 
 	<a href="https://www.nintendo.com/us/"></a>
     <a href=""></a>

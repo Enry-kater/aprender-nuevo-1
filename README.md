@@ -140,7 +140,6 @@ CAMPIOS DE PANTALLA
   </div>  
   <audio controls> <source src="musica.m4a" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  <img src="2.jfif" width="400" height="200"/>
-<img src="reparando.jpg" width="400" height="200"/>
 
      <video width="600" height="400" controls>
     <source src="compu.mp4" type="video/mp4">
@@ -150,7 +149,5 @@ CAMPIOS DE PANTALLA
 	
 	<A HREF="ernesto.html">  B hoja 1  </A> <br>
     <A HREF="iindex.html"> A hoja 2  </A> <br>
-
 </body>
-
 </html>`

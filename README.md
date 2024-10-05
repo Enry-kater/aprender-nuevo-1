@@ -148,6 +148,4 @@ CAMPIOS DE PANTALLA
 	<a href="Base Access China.html"></a> <br> 
 	
 	<A HREF="ernesto.html">  B hoja 1  </A> <br>
-    <A HREF="iindex.html"> A hoja 2  </A> <br>
-</body>
-</html>`
+    <A HREF="iindex.html"> A hoja 2  </A> <br></body></html>`
